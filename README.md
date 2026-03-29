@@ -3,7 +3,6 @@
 ## 📁 My Projects
 
 ### 🍹 FruttaSip
-👉 https://github.com/YOUR_USERNAME/FruttaSip
+👉 https://github.com/sudhanshu190419/fruttasip
 
-### 💻 Project 2
-👉 https://github.com/YOUR_USERNAME/Project2
+
